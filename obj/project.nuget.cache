@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cbvHHQZD7aXZDheGGoNi5i2QzXKzOBDFfE6hlcnadnGxjHApQqih/dofzlx5LvEWjliUZKwQixHU7cbSFfq9tQ==",
+  "dgSpecHash": "EDM63N0VZ3EYI52Cbhu4u7kZ1ndgmunB9hJJzT+NRBtazcGpMPu2FAR2ISThjfa/YYVjiKSFhZ7fIOvXiR5P1Q==",
   "success": true,
-  "projectFilePath": "/home/eddy/Documentos/Auto Progra/dotnet/C#/FirstAntlrSharp/FirstAntlrSharp.csproj",
+  "projectFilePath": "/home/eddy/Documentos/Auto Progra/dotnet/C#/ANTLRSharp/FirstAntlrSharp.csproj",
   "expectedPackageFiles": [
     "/home/eddy/.nuget/packages/antlr4.runtime.standard/4.13.1/antlr4.runtime.standard.4.13.1.nupkg.sha512"
   ],

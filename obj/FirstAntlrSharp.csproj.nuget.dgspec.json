@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/eddy/Documentos/Auto Progra/dotnet/C#/FirstAntlrSharp/FirstAntlrSharp.csproj": {}
+    "/home/eddy/Documentos/Auto Progra/dotnet/C#/ANTLRSharp/FirstAntlrSharp.csproj": {}
   },
   "projects": {
-    "/home/eddy/Documentos/Auto Progra/dotnet/C#/FirstAntlrSharp/FirstAntlrSharp.csproj": {
+    "/home/eddy/Documentos/Auto Progra/dotnet/C#/ANTLRSharp/FirstAntlrSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/eddy/Documentos/Auto Progra/dotnet/C#/FirstAntlrSharp/FirstAntlrSharp.csproj",
+        "projectUniqueName": "/home/eddy/Documentos/Auto Progra/dotnet/C#/ANTLRSharp/FirstAntlrSharp.csproj",
         "projectName": "FirstAntlrSharp",
-        "projectPath": "/home/eddy/Documentos/Auto Progra/dotnet/C#/FirstAntlrSharp/FirstAntlrSharp.csproj",
+        "projectPath": "/home/eddy/Documentos/Auto Progra/dotnet/C#/ANTLRSharp/FirstAntlrSharp.csproj",
         "packagesPath": "/home/eddy/.nuget/packages/",
-        "outputPath": "/home/eddy/Documentos/Auto Progra/dotnet/C#/FirstAntlrSharp/obj/",
+        "outputPath": "/home/eddy/Documentos/Auto Progra/dotnet/C#/ANTLRSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/eddy/.nuget/NuGet/NuGet.Config"
