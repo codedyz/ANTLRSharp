@@ -1,0 +1,6 @@
+/home/eddy/Documentos/Auto Progra/dotnet/blazor/FirstAntlrSharp/obj/Debug/net8.0/Hello.interp
+/home/eddy/Documentos/Auto Progra/dotnet/blazor/FirstAntlrSharp/obj/Debug/net8.0/Hello.tokens
+/home/eddy/Documentos/Auto Progra/dotnet/blazor/FirstAntlrSharp/obj/Debug/net8.0/HelloLexer.cs
+/home/eddy/Documentos/Auto Progra/dotnet/blazor/FirstAntlrSharp/obj/Debug/net8.0/HelloLexer.interp
+/home/eddy/Documentos/Auto Progra/dotnet/blazor/FirstAntlrSharp/obj/Debug/net8.0/HelloLexer.tokens
+/home/eddy/Documentos/Auto Progra/dotnet/blazor/FirstAntlrSharp/obj/Debug/net8.0/HelloParser.cs

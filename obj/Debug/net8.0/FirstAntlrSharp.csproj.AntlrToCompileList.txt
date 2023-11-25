@@ -1,0 +1,2 @@
+/home/eddy/Documentos/Auto Progra/dotnet/blazor/FirstAntlrSharp/obj/Debug/net8.0/HelloLexer.cs
+/home/eddy/Documentos/Auto Progra/dotnet/blazor/FirstAntlrSharp/obj/Debug/net8.0/HelloParser.cs

@@ -1,0 +1,21 @@
+digraph ATN {
+rankdir=LR;
+s6[fontsize=11, label="6", shape=doublecircle, fixedsize=true, width=.6];
+s18[fontsize=11,label="18", shape=circle, fixedsize=true, width=.55, peripheries=1];
+s19[fontsize=11,label="&rarr;\n19+", shape=circle, fixedsize=true, width=.55, peripheries=1];
+s20[fontsize=11,label="&larr;\n20", shape=circle, fixedsize=true, width=.55, peripheries=1];
+s5[fontsize=11,label="5", shape=circle, fixedsize=true, width=.55, peripheries=1];
+s21[fontsize=11,label="{21+\nd=2|{<p0>|<p1>}}", shape=record, fixedsize=false, peripheries=1];
+s22[fontsize=11,label="22", shape=circle, fixedsize=true, width=.55, peripheries=1];
+s23[fontsize=11,label="23", shape=circle, fixedsize=true, width=.55, peripheries=1];
+s24[fontsize=11,label="24", shape=circle, fixedsize=true, width=.55, peripheries=1];
+s5 -> s19 [fontname="Times-Italic", label="&epsilon;"];
+s19 -> s18 [fontname="Times-Italic", label="&epsilon;"];
+s18 -> s20 [fontsize=11, fontname="Courier", arrowsize=.7, label = "{'	'..'\\n', '', ' '}", arrowhead = normal];
+s20 -> s21 [fontname="Times-Italic", label="&epsilon;"];
+s21:p0 -> s19 [fontname="Times-Italic", label="&epsilon;", style="dashed"];
+s21:p1 -> s22 [fontname="Times-Italic", label="&epsilon;"];
+s22 -> s23 [fontname="Times-Italic", label="&epsilon;"];
+s23 -> s24 [fontsize=11, fontname="Courier", arrowsize=.7, label = "action_2:0", arrowhead = normal];
+s24 -> s6 [fontname="Times-Italic", label="&epsilon;"];
+}
